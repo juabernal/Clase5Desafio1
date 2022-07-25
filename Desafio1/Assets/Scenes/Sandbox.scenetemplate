@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Sandbox
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: e46347bef977a654cb26fcbf61c337da, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2100000, guid: 30f437815c6bd8a488d470bbcff88b55, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 96842d8c4f4d8ed4c9f43a0a274b1719, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 4431468462939766244, guid: 416bef203ba88c744b2e9c57c03145ba, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 6bc0ba88caf63624586355b9ed26f7d0, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 40111c28b22e6b648b01642aa96105ad, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 9122584556158577225, guid: ea3f167999758604ab7771dc808fb3f2, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0
